@@ -64,6 +64,7 @@ This project is free to use for personal and commercial purposes.
 
 ## 📂 File Structure
 
+```
 Galileo-Template/
 │
 ├─ HTML/
@@ -76,4 +77,5 @@ Galileo-Template/
 ├─ webfonts/                      🔤 Custom web fonts
 ├─ fontawesome-free-7.0.1-web/   ⭐ Font Awesome icons
 └─ README.md                      📄 This file
+```
 
