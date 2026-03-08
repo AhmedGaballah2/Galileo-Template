@@ -76,5 +76,3 @@ Galileo-Template/
 ├─ webfonts/                      🔤 Custom web fonts
 ├─ fontawesome-free-7.0.1-web/   ⭐ Font Awesome icons
 └─ README.md                      📄 This file
-
----
