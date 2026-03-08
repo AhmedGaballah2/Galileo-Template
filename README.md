@@ -33,6 +33,8 @@ Preview the template by opening the `galileo.html` file in your browser.
 3. **Customize**
    Edit HTML and CSS files as needed to fit your project.
 
+---
+
 ## 🛠️ Technologies Used
 
   - HTML5 - `galileo.html`
@@ -46,13 +48,19 @@ Preview the template by opening the `galileo.html` file in your browser.
   - Small business websites
   - Learning and experimentation
 
+---
+
 ## 🤝 Contribution
 
 Feel free to fork this repository, improve it, or use it in your projects. Pull requests and suggestions are welcome!
 
+---
+
 ## 📄 License
 
 This project is free to use for personal and commercial purposes.
+
+---
 
 ## 📂 File Structure
 
@@ -69,3 +77,4 @@ Galileo-Template/
 ├─ fontawesome-free-7.0.1-web/   ⭐ Font Awesome icons
 └─ README.md                      📄 This file
 
+---
