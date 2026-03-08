@@ -17,7 +17,7 @@ A modern, fully responsive **HTML & CSS website template** with smooth animation
 
 ## 🔍 Demo
 
-Preview the template by opening the `index.html` file in your browser.  
+Preview the template by opening the `galileo.html` file in your browser.  
 
 ---
 
@@ -28,7 +28,7 @@ Preview the template by opening the `index.html` file in your browser.
   `git clone https://github.com/AhmedGaballah2/Galileo-Template.git`
 
 2. **Open the project**
-   Navigate to the project folder and open `index.html` in your favorite browser.
+   Navigate to the project folder and open `galileo.html` in your favorite browser.
 
 3. **Customize**
    Edit HTML and CSS files as needed to fit your project.
